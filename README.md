@@ -1,8 +1,6 @@
-# liribot
+# LIRI Bot nodeJS Application
 
-LIRI nodeJS application
-
-This node application is designed to complete one action from the following selections:
+This nodeJS application uses API from Spotify, OMDB and Bands in Town to give users information. Users will be prompted to provide their name and select the action they would like LIRI to perform. LIRI is designed to complete one action from the following selections:
 
 ## Spotify this song
 
