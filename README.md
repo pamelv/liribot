@@ -35,4 +35,4 @@ This node application is designed to complete one action from the following sele
 
     This action will read the 'random.txt' file for a command to complete. The application will execute the command and return the appropriate information based on what is written in the file.
 
-[Click here](/liribot_demo.mov)
+[Click here](/liribot_demo.gif) for a demo of this application.
