@@ -2,7 +2,7 @@
 
 LIRI nodeJS application
 
-This node application is designed to take complete one action from the following selections:
+This node application is designed to complete one action from the following selections:
 
 ## Spotify this song
 
@@ -11,7 +11,6 @@ This node application is designed to take complete one action from the following
         ** Song Name
         ** Link to Preview Song on Spotify
         ** Album for the Song
-
 
 ## Concert this
 
@@ -35,3 +34,5 @@ This node application is designed to take complete one action from the following
 ## Do what it says
 
     This action will read the 'random.txt' file for a command to complete. The application will execute the command and return the appropriate information based on what is written in the file.
+
+Click here @(/liribot_demo.mov)
