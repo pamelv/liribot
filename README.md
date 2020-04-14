@@ -33,4 +33,6 @@ This nodeJS application uses API from Spotify, OMDB and Bands in Town to give us
 
     This action will read the 'random.txt' file for a command to complete. The application will execute the command and return the appropriate information based on what is written in the file.
 
-[Click here](/liribot_demo.gif) for a demo of this application.
+## Application Demo
+
+![Alt Text](liribot_demo.gif)
